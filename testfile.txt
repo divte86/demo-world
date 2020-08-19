@@ -1,3 +1,7 @@
 Hello this is testing for conflict
 test1 
+<<<<<<< HEAD
 test7
+=======
+test5
+>>>>>>> 597a44672f57ffb7515a259433f9cd9ff71ab209
